@@ -1,0 +1,21 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "html, css, javascript, API, client-side, server-side",
+
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node": "^23.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+ 
+}
